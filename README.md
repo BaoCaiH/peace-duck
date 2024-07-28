@@ -1,6 +1,6 @@
 # peace-duck
-Peace was never an option duck
+Peace-was-never-an-option duck (peace duck for short)
 
-Markdown pattern of the peace was never an option duck.
+Markdown pattern of the peace duck.
 
-[See pattern](pattern.md)
+[See pdf pattern](https://www.ravelry.com/patterns/library/peace-duck)
